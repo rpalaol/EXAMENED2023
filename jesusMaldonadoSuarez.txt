@@ -1,0 +1,8 @@
+#!/bin/sh
+
+nota=0
+for i in 10
+do
+contador=$( expr $contador + 1 )
+done
+$nota
